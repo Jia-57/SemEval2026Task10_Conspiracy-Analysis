@@ -2,8 +2,9 @@
 
 A general conspiracy theory monitoring framework for Reddit comments ([SemEval-2026 Task 10](https://hide-ous.github.io/semeval2026-psycomark/)) integrates BERT‑based pretrained language models and large language models for conspiracy detection and psycholinguistic marker extraction, while examining the impact of model architecture and scale.
 
-
-<img src="./assets/conspiracy-card.svg"> 
+<p align="center">
+  <img src="./assets/conspiracy-card-no-shadow.svg" width="350">
+</p>
 
 ## Dataset
 The original dataset consists of 4,316 labeled training instances, along with 100 unlabeled development instances and 337 test instances. The training, development and test datasets are all placed in the dataset folder.
