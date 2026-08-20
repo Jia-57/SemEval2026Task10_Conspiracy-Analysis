@@ -64,7 +64,7 @@ The following table and image present the detailed performance metrics for Bert-
 ### Setup
 
 ```
-pip install -r requirements_V2.txt  #Install dependencies
+uv pip install -r requirements.txt  #Install dependencies
 ```
 
 ### Usage and Run
